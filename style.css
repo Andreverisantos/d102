@@ -1,0 +1,72 @@
+/* seletor{ */
+    /* propriedade: valor;
+    
+     */
+    body{
+        margin: 0;
+    }
+
+header {
+    background-color: blue;
+}
+
+a{
+    color:rgba(255, 0, 0, 0.747);
+
+}
+header nav a {
+    
+}
+
+.nav-header a {
+    color: red;
+    text-decoration:none;
+
+}
+
+body{
+    font-family: sans-serif;
+    margin: 0;
+}
+
+#header-pesquisa::placeholder{
+    color: aqua;
+}
+
+#header-pesquisa{
+    color: brown;
+}
+textarea {
+    resize: none
+
+}
+.formulario-contto p,.formulario-contto h3{
+font-size: 18pt;
+}
+
+.formulario-contto{
+    background-color: lightblue;
+    border-radius: 10px;
+    box-shadow: 1px 1px 20px 5px rgb(0, 0,0.1)
+
+    
+}
+.negrito{font-weight: bold;{
+
+    color:blu;
+  img:holver{ opacity: ;}
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
